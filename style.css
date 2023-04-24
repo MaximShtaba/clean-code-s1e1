@@ -12,11 +12,11 @@
   text-align: right;
 }
 
-.matrix-image {
+.matrix__image {
   width: 100%;
 }
 
-.matrix .more-inf {
+.matrix__info{
   font-family: fantasy, cursive;
 }
 
